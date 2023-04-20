@@ -1,0 +1,4 @@
+discord
+Pillow
+psutil
+requests
